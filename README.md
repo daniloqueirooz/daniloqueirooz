@@ -1,7 +1,7 @@
 ## Olá, eu sou Danilo Queiroz e sou Desenvolvedor Android! 
 <div align="center">
 
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloqueirooz&show_icons=true&theme=dark&count_private=true)
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloqueirooz&show_icons=true&theme=dark)
   <a href="https://github.com/daniloqueirooz">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloqueirooz&layout=compact&langs_count=7&theme=dark"/>
