@@ -1,4 +1,4 @@
-## Olá, eu sou Danilo Queiroz e sou Desenvolvedor Android! 
+## Olá, eu sou Danilo Queiroz 🖐️
 <div align="center">
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloqueirooz&show_icons=true&theme=dark)
