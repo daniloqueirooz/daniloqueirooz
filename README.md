@@ -1,4 +1,13 @@
 ## Olá, eu sou Danilo Queiroz 🖐️
+
+💻 Desenvolvedor Android Kotlin que está mergulhando profundamente no mundo da tecnologia e se apaixonado cada vez mais 💻
+
+- 🚀 Meu maior objetivo é me tornar um especialista em Android Nativo e codar em cada lugar do mundo.
+- 📚 Atualmente estou estudando Compose e Navigation.
+- 📌 Sempre procuro ajudar outros Dev's que estão começando mesmo não sabendo sobre tudo.
+- 🛤 Eu gosto de ler, estar com amigos, família e ir a praia. 
+
+
 <div align="center">
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloqueirooz&show_icons=true&theme=dark)
