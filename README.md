@@ -1,10 +1,10 @@
-## Olá, eu sou Danilo Queiroz 🖐️
+## Ei!!, eu sou Danilo Queiroz 🖐️
 
 💻 Desenvolvedor Android Kotlin que está mergulhando profundamente no mundo da tecnologia e se apaixonado cada vez mais 💻
 
 - 🚀 Meu maior objetivo é me tornar um especialista em Android Nativo e codar em cada lugar do mundo.
 - 📚 Atualmente estou estudando Compose e Navigation.
-- 📌 Sempre procuro ajudar outros Dev's que estão começando mesmo não sabendo sobre tudo.
+- 📌 Sempre procuro ajudar outros Dev's que estão começando, mesmo não sabendo sobre tudo.
 - 🛤 Eu gosto de ler, estar com amigos, família e ir a praia. 
 
 
@@ -17,7 +17,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-## Tecnologias que eu uso no meu dia dia:
+## Tecnologias que eu uso no meu dia a dia:
   
    <img align="center" alt="Danilo Android" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
    <img align="center" alt="Danilo Kotlin" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
