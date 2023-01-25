@@ -7,16 +7,6 @@
 - 📌 Sempre procuro ajudar outros Dev's que estão começando, mesmo não sabendo sobre tudo.
 - 🛤 Eu gosto de de estar com amigos, ler e ir a praia. 
 
-
-<div align="center">
-
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloqueirooz&show_icons=true&theme=dark)
-  <a href="https://github.com/daniloqueirooz">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloqueirooz&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-
 ## Tecnologias que eu uso no meu dia a dia:
   
    <img align="center" alt="Danilo Android" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
