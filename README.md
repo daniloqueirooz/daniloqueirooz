@@ -1,4 +1,4 @@
-## Eii!!, eu sou Danilo Queiroz 🖐️
+## Eii!! Eu sou Danilo Queiroz 🖐️
 
 💻 Desenvolvedor Android Kotlin que está mergulhando profundamente no mundo da tecnologia e se apaixonando cada vez mais 💻
 
@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   
-
           
  ##
 </div>   
