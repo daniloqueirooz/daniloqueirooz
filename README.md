@@ -2,10 +2,10 @@
 
 💻 Desenvolvedor Android Kotlin que está mergulhando profundamente no mundo da tecnologia e se apaixonando cada vez mais 💻
 
-- 🚀 Meu maior objetivo é me tornar um especialista em Android Nativo e codar em cada lugar do mundo.
+- 🚀 Meu maior objetivo é me tornar um especialista em Android e codar em cada lugar do mundo.
 - 📚 Atualmente estou estudando Compose e Navigation.
 - 📌 Sempre procuro ajudar outros Dev's que estão começando, mesmo não sabendo sobre tudo.
-- 🛤 Eu gosto de de estar com amigos, ler e ir a praia. 
+- 🛤 Eu gosto de estar com amigos, ler e ir a praia. 
 - 
    
    # 💻 Tecnologias que eu uso no meu dia a dia:
